@@ -10,7 +10,7 @@ const Card = ({card}) => {
         </div>
       </div>
       <div>
-        <p className='text-3xl pb-4'>{card.hero}</p>
+        <p className='text-3xl  pb-4'>{card.hero}</p>
       </div>
       <div className='flex gap-2 items-center py-1.5'>
         <div className='bg-[#d3e2f7] rounded px-1 text-xs text-blue-500'>
